@@ -14,26 +14,31 @@
 ```bash
 git clone https://github.com/username/repository-name.git
 cd repository-name
+```
 
 2. Установите зависимости
 
 ```bash
 npm install
+```
 
 3. Запуск проекта.
 
 ```bash
 npm run dev
+```
 
 или
 
 ```bash
 yarn dev
+```
 
 4. Откройте браузер и перейдите по адресу:
 
 ```bash
 http://localhost:3000
+```
 
 
 Структура проекта
